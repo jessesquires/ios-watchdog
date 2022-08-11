@@ -1,2 +1,3 @@
-# ios-watchdog
-Main thread watchdog for iOS
+# iOS Watchdog
+
+*Main thread watchdog for iOS*
