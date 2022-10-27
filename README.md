@@ -19,6 +19,8 @@ Also consider [sponsoring this project](https://github.com/sponsors/jessesquires
 
 ## Credits
 
+Borrowed from [Justin Spahr-Summers](https://gist.github.com/jspahrsummers/419266f5231832602bec).
+
 Created and maintained by [**Jesse Squires**](https://www.jessesquires.com).
 
 ## License
