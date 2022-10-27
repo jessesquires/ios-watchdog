@@ -135,6 +135,7 @@ static const NSTimeInterval DefaultStallingThreshold = 4;
 }
 
 - (void)stop {
+    self.startTime = 0;
     CFRunLoopRemoveObserver(self.runLoop, self.observer, kCFRunLoopCommonModes);
 }
 
